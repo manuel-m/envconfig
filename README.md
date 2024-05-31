@@ -1,4 +1,4 @@
-# timeutil: time utility
+# envconfig: environment config (development|staging|production)
 
 help
 ```
